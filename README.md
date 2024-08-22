@@ -13,4 +13,4 @@ This repository contains code to train and deploy a tensorflow model using aws s
 
 [model_artifact_deployment.ipynb](/model_artifacts_deployment.ipynb) file deploys model stored in s3 bucket using aws sageamker. 
 
-[extend_sagemaker_containers](/extend_sagemaker_containers/) folder containers relevant code for extending sagemaker training containers. 
+[extend_sagemaker_containers](/extend_sagemaker_containers/) folder contains relevant code for extending sagemaker training containers. 
